@@ -1,3 +1,4 @@
+//This is a new change
 // gameplay function
 var highscore = 0 ;
 var dead = 0;
